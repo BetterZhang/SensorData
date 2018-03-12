@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorData</string>
+    <string name="text_exit_app">再按一次退出程序</string>
+    <string name="common_text_cancle">取消</string>
+</resources>
